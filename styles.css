@@ -1,0 +1,33 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: rgb(32, 29, 29);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title {
+    text-align: center;
+    padding: 50px;
+    font-weight: 700;
+    color: aliceblue;
+}
+.acesso-curso-completo {
+    text-align: center;
+    padding: 15px;
+    color: aliceblue;
+    
+    
+}
+body, a, a:hover, a:visited {
+    color: unset;
+    text-decoration: none;
+}
+.prev-btn {
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+}
